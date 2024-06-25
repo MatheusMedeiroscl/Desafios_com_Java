@@ -10,7 +10,7 @@
     <li><strong>Project Management:</strong> I developed a program for managing products in an inventory, using OOP principles and ArrayLists.</li>
 </ul>
 <h2>Motivation</h2>
-<p>My aspiration is to become a programmer. I can be proud of I know the journey is long, which is why I am dedicated to making the most of it and celebrating every victory along the way.</p>
+<p>My aspiration is to become a programmer. I can be proud of I know, but the journey is long. My goal is dedicated to making the most of it and celebrating every victory along the way.</p>
 <h2>Contact</h2>
 <ul>
     <li><strong>Email:</strong> <a href="mailto:medeiros.matheuscl@gmail.com">medeiros.matheuscl@gmail.com</a></li>
